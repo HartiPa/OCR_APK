@@ -1,0 +1,44 @@
+{
+  "presets": [
+    [
+      "📋 DODACÍ LIST (vše)",
+      "DODACI_LIST_AUTO"
+    ],
+    [
+      "Číslo dokladu",
+      "Číslo dokladu"
+    ],
+    [
+      "Objednávka",
+      "Objednávka"
+    ],
+    [
+      "Datum pořízení",
+      "Datum pořízení"
+    ],
+    [
+      "IČ dodavatele",
+      "IČ"
+    ],
+    [
+      "DIČ dodavatele",
+      "DIČ"
+    ],
+    [
+      "Sklad",
+      "Sklad"
+    ],
+    [
+      "Firma",
+      "Jacer, VLK"
+    ],
+    [
+      "Položka",
+      "W35-00"
+    ],
+    [
+      "Množství MJ",
+      "26 ks"
+    ]
+  ]
+}

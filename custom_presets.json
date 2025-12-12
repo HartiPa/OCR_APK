@@ -1,0 +1,24 @@
+{
+  "presets": [
+    [
+      "Firma",
+      "Dřevovýroba VLK"
+    ],
+    [
+      "Číslo dokladu",
+      "000364"
+    ],
+    [
+      "Objednávka",
+      "_4500224710"
+    ],
+    [
+      "Označení",
+      "W35-00"
+    ],
+    [
+      "Množství",
+      "26 ks"
+    ]
+  ]
+}

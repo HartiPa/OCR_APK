@@ -1,0 +1,1228 @@
+{
+  "test_date": "2025-12-12T22:11:10.711584",
+  "num_iterations": 3,
+  "summary": {
+    "total_files": 44,
+    "extraction_success": 44,
+    "repeatability_pass": 44
+  },
+  "files": {
+    "CHU_SCX_TV25091114400_0001.jpg": {
+      "extraction_success": true,
+      "repeatability": true,
+      "differences": [],
+      "extracted_data": {
+        "page_1": {
+          "cislo_dokladu": "000367",
+          "objednavka": null,
+          "datum_porizeni": null,
+          "dodavatel_ic": "25032372",
+          "dodavatel_dic": "CZ25032372",
+          "dodavatel_nazev": "Dřevovýroba VLK spol. s r.o.",
+          "polozky_count": 0,
+          "polozky": []
+        }
+      }
+    },
+    "CHU_SCX_TV25091114400_0002.jpg": {
+      "extraction_success": true,
+      "repeatability": true,
+      "differences": [],
+      "extracted_data": {
+        "page_1": {
+          "cislo_dokladu": "000366",
+          "objednavka": null,
+          "datum_porizeni": null,
+          "dodavatel_ic": "25032372",
+          "dodavatel_dic": "CZ25032372",
+          "dodavatel_nazev": "Dřevovýroba VLK spol. s r.o.",
+          "polozky_count": 1,
+          "polozky": [
+            {
+              "radek": "1",
+              "oznaceni": "W35-00",
+              "popis": "1313318 BEDNA DŘEVĚNÁ HT W35-00-ARG-168-80-125",
+              "mnozstvi": "26",
+              "jednotka": "ks"
+            }
+          ]
+        }
+      }
+    },
+    "CHU_SCX_TV25091114400_0003.jpg": {
+      "extraction_success": true,
+      "repeatability": true,
+      "differences": [],
+      "extracted_data": {
+        "page_1": {
+          "cislo_dokladu": "000365",
+          "objednavka": null,
+          "datum_porizeni": null,
+          "dodavatel_ic": "25032372",
+          "dodavatel_dic": "CZ25032372",
+          "dodavatel_nazev": "Dřevovýroba VLK spol. s r.o.",
+          "polozky_count": 1,
+          "polozky": [
+            {
+              "radek": "1",
+              "oznaceni": "W28-04",
+              "popis": "1259869 BEDNA DŘEVĚNÁ HT W28-04-ARG-181-80-130",
+              "mnozstvi": "12",
+              "jednotka": "ks"
+            }
+          ]
+        }
+      }
+    },
+    "CHU_SCX_TV25091114400_0004.jpg": {
+      "extraction_success": true,
+      "repeatability": true,
+      "differences": [],
+      "extracted_data": {
+        "page_1": {
+          "cislo_dokladu": "000364",
+          "objednavka": "4500224710",
+          "datum_porizeni": null,
+          "dodavatel_ic": "25032372",
+          "dodavatel_dic": "CZ25032372",
+          "dodavatel_nazev": "Dřevovýroba VLK spol. s r.o.",
+          "polozky_count": 1,
+          "polozky": [
+            {
+              "radek": "1",
+              "oznaceni": "W35-00",
+              "popis": "1313318 BEDNA DREVENA HT W35-00-ARG-168-80-125",
+              "mnozstvi": "26",
+              "jednotka": "ks"
+            }
+          ]
+        }
+      }
+    },
+    "CHU_SCX_TV25091114400_0005.jpg": {
+      "extraction_success": true,
+      "repeatability": true,
+      "differences": [],
+      "extracted_data": {
+        "page_1": {
+          "cislo_dokladu": "9270",
+          "objednavka": null,
+          "datum_porizeni": "05.09.2025",
+          "dodavatel_ic": null,
+          "dodavatel_dic": "CZ26032372",
+          "dodavatel_nazev": "LD Dřevovýroba VLK spol. s r.o.",
+          "polozky_count": 2,
+          "polozky": [
+            {
+              "radek": "1",
+              "oznaceni": "OPRO9",
+              "popis": "Oprava beden Velká HT",
+              "mnozstvi": "3",
+              "jednotka": "ks"
+            },
+            {
+              "radek": "2",
+              "oznaceni": "OPR10",
+              "popis": "Oprava beden Mala HT",
+              "mnozstvi": "9",
+              "jednotka": "ks"
+            }
+          ]
+        }
+      }
+    },
+    "CHU_SCX_TV25091114400_0006.jpg": {
+      "extraction_success": true,
+      "repeatability": true,
+      "differences": [],
+      "extracted_data": {
+        "page_1": {
+          "cislo_dokladu": "9269",
+          "objednavka": null,
+          "datum_porizeni": null,
+          "dodavatel_ic": "25032372",
+          "dodavatel_dic": "CZ25032372",
+          "dodavatel_nazev": "Dřevovýroba VLK spol. s r.o.",
+          "polozky_count": 2,
+          "polozky": [
+            {
+              "radek": "1",
+              "oznaceni": "OPRO09",
+              "popis": "Oprava beden Velká HT",
+              "mnozstvi": "8",
+              "jednotka": "ks"
+            },
+            {
+              "radek": "2",
+              "oznaceni": "OPR10",
+              "popis": "Oprava beden Malá HT",
+              "mnozstvi": "16",
+              "jednotka": "ks"
+            }
+          ]
+        }
+      }
+    },
+    "CHU_SCX_TV25091114400_0007.jpg": {
+      "extraction_success": true,
+      "repeatability": true,
+      "differences": [],
+      "extracted_data": {
+        "page_1": {
+          "cislo_dokladu": "000365",
+          "objednavka": null,
+          "datum_porizeni": null,
+          "dodavatel_ic": "25032372",
+          "dodavatel_dic": "CZ25032372",
+          "dodavatel_nazev": "Dřevovýroba VLK spol. s r.o.",
+          "polozky_count": 1,
+          "polozky": [
+            {
+              "radek": "1",
+              "oznaceni": "W30-00",
+              "popis": "1260021 BEDNA DŘEVĚNÁ HT W30-00-ARG-208-80-140",
+              "mnozstvi": "20",
+              "jednotka": "ks"
+            }
+          ]
+        }
+      }
+    },
+    "CHU_SCX_TV25091114400_0008.jpg": {
+      "extraction_success": true,
+      "repeatability": true,
+      "differences": [],
+      "extracted_data": {
+        "page_1": {
+          "cislo_dokladu": null,
+          "objednavka": null,
+          "datum_porizeni": "04.09.2025",
+          "dodavatel_ic": "25032372",
+          "dodavatel_dic": "CZ25032372",
+          "dodavatel_nazev": "Drevovyroba VLK spol. s r.o.",
+          "polozky_count": 3,
+          "polozky": [
+            {
+              "radek": "1",
+              "oznaceni": "OPR09",
+              "popis": "Oprava beden Velká HT",
+              "mnozstvi": "12",
+              "jednotka": "ks"
+            },
+            {
+              "radek": "2",
+              "oznaceni": "OPR10",
+              "popis": "Oprava beden Malá HT",
+              "mnozstvi": "14",
+              "jednotka": "ks"
+            },
+            {
+              "radek": "2",
+              "oznaceni": "la",
+              "popis": ") KA",
+              "mnozstvi": "82",
+              "jednotka": "ks"
+            }
+          ]
+        }
+      }
+    },
+    "CHU_SCX_TV25091114400_0009.jpg": {
+      "extraction_success": true,
+      "repeatability": true,
+      "differences": [],
+      "extracted_data": {
+        "page_1": {
+          "cislo_dokladu": "301",
+          "objednavka": null,
+          "datum_porizeni": "04.09.2025",
+          "dodavatel_ic": "25032372",
+          "dodavatel_dic": "CZ25082372",
+          "dodavatel_nazev": "Dřevovýroba VLK spol. s r.o.",
+          "polozky_count": 1,
+          "polozky": [
+            {
+              "radek": "17",
+              "oznaceni": "ks",
+              "popis": "2 OPR10 Oprava beden Mala HT",
+              "mnozstvi": "1300337",
+              "jednotka": "ks"
+            }
+          ]
+        }
+      }
+    },
+    "CHU_SCX_TV25091114400_0010.jpg": {
+      "extraction_success": true,
+      "repeatability": true,
+      "differences": [],
+      "extracted_data": {
+        "page_1": {
+          "cislo_dokladu": "9266",
+          "objednavka": null,
+          "datum_porizeni": null,
+          "dodavatel_ic": "25032372",
+          "dodavatel_dic": "CZ25032372",
+          "dodavatel_nazev": "Dřevovýroba VLK spol. s r.o.",
+          "polozky_count": 2,
+          "polozky": [
+            {
+              "radek": "1",
+              "oznaceni": "OPRO9",
+              "popis": "Oprava beden Velka HT",
+              "mnozstvi": "10",
+              "jednotka": "ks"
+            },
+            {
+              "radek": "2",
+              "oznaceni": "OPR10",
+              "popis": "Oprava beden Malá HT",
+              "mnozstvi": "12",
+              "jednotka": "ks"
+            }
+          ]
+        }
+      }
+    },
+    "CHU_SCX_TV25091114400_0011.jpg": {
+      "extraction_success": true,
+      "repeatability": true,
+      "differences": [],
+      "extracted_data": {
+        "page_1": {
+          "cislo_dokladu": "9265",
+          "objednavka": null,
+          "datum_porizeni": null,
+          "dodavatel_ic": "25032372",
+          "dodavatel_dic": "CZ25032372",
+          "dodavatel_nazev": "Dřevovýroba VLK spol. s r.o.",
+          "polozky_count": 2,
+          "polozky": [
+            {
+              "radek": "1",
+              "oznaceni": "OPRO09",
+              "popis": "Oprava beden Velká HT",
+              "mnozstvi": "9",
+              "jednotka": "ks"
+            },
+            {
+              "radek": "2",
+              "oznaceni": "OPR10",
+              "popis": "Oprava beden Malá HT",
+              "mnozstvi": "15",
+              "jednotka": "ks"
+            }
+          ]
+        }
+      }
+    },
+    "CHU_SCX_TV25091114400_0012.jpg": {
+      "extraction_success": true,
+      "repeatability": true,
+      "differences": [],
+      "extracted_data": {
+        "page_1": {
+          "cislo_dokladu": "000362",
+          "objednavka": null,
+          "datum_porizeni": null,
+          "dodavatel_ic": "25032372",
+          "dodavatel_dic": "CZ25032372",
+          "dodavatel_nazev": "Dřevovýroba VLK spol. s r.o.",
+          "polozky_count": 2,
+          "polozky": [
+            {
+              "radek": "1",
+              "oznaceni": "W28-04",
+              "popis": "1259869 BEDNA DŘEVĚNÁ HT W28-04-ARG-181-80-130",
+              "mnozstvi": "12",
+              "jednotka": "ks"
+            },
+            {
+              "radek": "5",
+              "oznaceni": "by",
+              "popis": "7",
+              "mnozstvi": "2",
+              "jednotka": "ks"
+            }
+          ]
+        }
+      }
+    },
+    "CHU_SCX_TV25091114400_0013.jpg": {
+      "extraction_success": true,
+      "repeatability": true,
+      "differences": [],
+      "extracted_data": {
+        "page_1": {
+          "cislo_dokladu": "000361",
+          "objednavka": null,
+          "datum_porizeni": "03.09.2025",
+          "dodavatel_ic": "25032372",
+          "dodavatel_dic": "CZ25032372",
+          "dodavatel_nazev": "Dřevovýroba VLK spol. s r.o.",
+          "polozky_count": 1,
+          "polozky": [
+            {
+              "radek": "1",
+              "oznaceni": "W35-00",
+              "popis": "1313318 BEDNA DREVENA HT W35-00-ARG-168-80-125",
+              "mnozstvi": "26",
+              "jednotka": "ks"
+            }
+          ]
+        }
+      }
+    },
+    "CHU_SCX_TV25091114350_0001.pdf": {
+      "extraction_success": true,
+      "repeatability": true,
+      "differences": [],
+      "extracted_data": {
+        "page_1": {
+          "cislo_dokladu": "000360",
+          "objednavka": null,
+          "datum_porizeni": "03.09.2025",
+          "dodavatel_ic": "25032372",
+          "dodavatel_dic": "CZ25032372",
+          "dodavatel_nazev": "Dřevovýroba VLK spol. s r.o.",
+          "polozky_count": 1,
+          "polozky": [
+            {
+              "radek": "1",
+              "oznaceni": "W35-00",
+              "popis": "1313318 BEDNA DREVENA HT W35-00-ARG-168-80-125",
+              "mnozstvi": "26",
+              "jednotka": "ks"
+            }
+          ]
+        }
+      }
+    },
+    "CHU_SCX_TV25091114350_0002.pdf": {
+      "extraction_success": true,
+      "repeatability": true,
+      "differences": [],
+      "extracted_data": {
+        "page_1": {
+          "cislo_dokladu": "9263",
+          "objednavka": null,
+          "datum_porizeni": "03.09.2025",
+          "dodavatel_ic": "25032372",
+          "dodavatel_dic": "CZ25032372",
+          "dodavatel_nazev": "Dřevovýroba VLK spol. s r.o.",
+          "polozky_count": 2,
+          "polozky": [
+            {
+              "radek": "1",
+              "oznaceni": "OPR09",
+              "popis": "Oprava beden Velká HT",
+              "mnozstvi": "8",
+              "jednotka": "ks"
+            },
+            {
+              "radek": "12",
+              "oznaceni": "ks",
+              "popis": "2 OPR10 Oprava beden Mala HT",
+              "mnozstvi": "1300344",
+              "jednotka": "ks"
+            }
+          ]
+        }
+      }
+    },
+    "CHU_SCX_TV25091114350_0003.pdf": {
+      "extraction_success": true,
+      "repeatability": true,
+      "differences": [],
+      "extracted_data": {
+        "page_1": {
+          "cislo_dokladu": "9264",
+          "objednavka": "450024710",
+          "datum_porizeni": "03.09.2025",
+          "dodavatel_ic": "25032372",
+          "dodavatel_dic": "CZ25032372",
+          "dodavatel_nazev": "Dřevovýroba VLK spol. s r.o.",
+          "polozky_count": 2,
+          "polozky": [
+            {
+              "radek": "1",
+              "oznaceni": "OPR09",
+              "popis": "Oprava beden Velká HT",
+              "mnozstvi": "6",
+              "jednotka": "ks"
+            },
+            {
+              "radek": "18",
+              "oznaceni": "ks",
+              "popis": "2 OPR10 Oprava beden Malá HT",
+              "mnozstvi": "1300336",
+              "jednotka": "ks"
+            }
+          ]
+        }
+      }
+    },
+    "CHU_SCX_TV25091114350_0004.pdf": {
+      "extraction_success": true,
+      "repeatability": true,
+      "differences": [],
+      "extracted_data": {
+        "page_1": {
+          "cislo_dokladu": "000621",
+          "objednavka": "4500105358",
+          "datum_porizeni": "10.09.2025",
+          "dodavatel_ic": "25410105",
+          "dodavatel_dic": "CZ25410105",
+          "dodavatel_nazev": "a.s.",
+          "polozky_count": 0,
+          "polozky": []
+        }
+      }
+    },
+    "CHU_SCX_TV25091114350_0005.pdf": {
+      "extraction_success": true,
+      "repeatability": true,
+      "differences": [],
+      "extracted_data": {
+        "page_1": {
+          "cislo_dokladu": "000375",
+          "objednavka": null,
+          "datum_porizeni": "11.09.2025",
+          "dodavatel_ic": "25032372",
+          "dodavatel_dic": "CZ25032372",
+          "dodavatel_nazev": "p Dřevovýroba VLK spol. s r.o.",
+          "polozky_count": 1,
+          "polozky": [
+            {
+              "radek": "1",
+              "oznaceni": "W35-00",
+              "popis": "1313318 BEDNA DREVENA HT W35-00-ARG-168-80-125",
+              "mnozstvi": "26",
+              "jednotka": "ks"
+            }
+          ]
+        }
+      }
+    },
+    "CHU_SCX_TV25091114350_0006.pdf": {
+      "extraction_success": true,
+      "repeatability": true,
+      "differences": [],
+      "extracted_data": {
+        "page_1": {
+          "cislo_dokladu": "000374",
+          "objednavka": null,
+          "datum_porizeni": null,
+          "dodavatel_ic": "25032372",
+          "dodavatel_dic": "CZ25032372",
+          "dodavatel_nazev": "Dřevovýroba VLK spol. s r.o.",
+          "polozky_count": 1,
+          "polozky": [
+            {
+              "radek": "1",
+              "oznaceni": "W35-00",
+              "popis": "1313318 BEDNA DŘEVĚNÁ HT W35.00-ARG-168-80-125",
+              "mnozstvi": "26",
+              "jednotka": "ks"
+            }
+          ]
+        }
+      }
+    },
+    "CHU_SCX_TV25091114350_0007.pdf": {
+      "extraction_success": true,
+      "repeatability": true,
+      "differences": [],
+      "extracted_data": {
+        "page_1": {
+          "cislo_dokladu": "9277",
+          "objednavka": "4500224710",
+          "datum_porizeni": "10.09.2025",
+          "dodavatel_ic": "25032372",
+          "dodavatel_dic": "CZ25032372",
+          "dodavatel_nazev": "Dřevovýroba VLK spol. s r.o.",
+          "polozky_count": 2,
+          "polozky": [
+            {
+              "radek": "1",
+              "oznaceni": "OPRO09",
+              "popis": "Oprava beden Velká HT",
+              "mnozstvi": "8",
+              "jednotka": "ks"
+            },
+            {
+              "radek": "2",
+              "oznaceni": "OPR10",
+              "popis": "Oprava beden Mala HT",
+              "mnozstvi": "16",
+              "jednotka": "ks"
+            }
+          ]
+        }
+      }
+    },
+    "CHU_SCX_TV25091114350_0008.pdf": {
+      "extraction_success": true,
+      "repeatability": true,
+      "differences": [],
+      "extracted_data": {
+        "page_1": {
+          "cislo_dokladu": "9276",
+          "objednavka": null,
+          "datum_porizeni": null,
+          "dodavatel_ic": "25032372",
+          "dodavatel_dic": null,
+          "dodavatel_nazev": "S Dřevovýroba VLK spol. s r.o.",
+          "polozky_count": 3,
+          "polozky": [
+            {
+              "radek": "4",
+              "oznaceni": "Kuss",
+              "popis": ":",
+              "mnozstvi": "4500224710",
+              "jednotka": "ks"
+            },
+            {
+              "radek": "1",
+              "oznaceni": "OPRO09",
+              "popis": "Oprava beden Velká HT",
+              "mnozstvi": "11",
+              "jednotka": "ks"
+            },
+            {
+              "radek": "13",
+              "oznaceni": "ks",
+              "popis": "2 OPR10 Oprava beden Mala HT",
+              "mnozstvi": "1300337",
+              "jednotka": "ks"
+            }
+          ]
+        }
+      }
+    },
+    "CHU_SCX_TV25091114350_0009.pdf": {
+      "extraction_success": true,
+      "repeatability": true,
+      "differences": [],
+      "extracted_data": {
+        "page_1": {
+          "cislo_dokladu": "9275",
+          "objednavka": "4500224710",
+          "datum_porizeni": "09.09.2025",
+          "dodavatel_ic": "25032372",
+          "dodavatel_dic": "CZ25032372",
+          "dodavatel_nazev": "Dřevovýroba VLK spol. s r.o.",
+          "polozky_count": 2,
+          "polozky": [
+            {
+              "radek": "1",
+              "oznaceni": "OPRO09",
+              "popis": "Oprava beden Velká HT",
+              "mnozstvi": "1300333",
+              "jednotka": "ks"
+            },
+            {
+              "radek": "10",
+              "oznaceni": "ks",
+              "popis": "2 OPR10 Oprava beden Malá HT",
+              "mnozstvi": "1300333",
+              "jednotka": "ks"
+            }
+          ]
+        }
+      }
+    },
+    "CHU_SCX_TV25091114350_0010.pdf": {
+      "extraction_success": true,
+      "repeatability": true,
+      "differences": [],
+      "extracted_data": {
+        "page_1": {
+          "cislo_dokladu": "9274",
+          "objednavka": null,
+          "datum_porizeni": "09.09.2025",
+          "dodavatel_ic": "25032372",
+          "dodavatel_dic": "CZ25032372",
+          "dodavatel_nazev": "PR Dřevovýroba VLK spol. s r.o.",
+          "polozky_count": 2,
+          "polozky": [
+            {
+              "radek": "1",
+              "oznaceni": "OPRO09",
+              "popis": "Oprava beden Velká HT",
+              "mnozstvi": "12",
+              "jednotka": "ks"
+            },
+            {
+              "radek": "12",
+              "oznaceni": "ks",
+              "popis": "2 OPR10 Oprava beden Malá HT",
+              "mnozstvi": "1300338",
+              "jednotka": "ks"
+            }
+          ]
+        }
+      }
+    },
+    "CHU_SCX_TV25091114350_0011.pdf": {
+      "extraction_success": true,
+      "repeatability": true,
+      "differences": [],
+      "extracted_data": {
+        "page_1": {
+          "cislo_dokladu": "000373",
+          "objednavka": null,
+          "datum_porizeni": "09.09.2025",
+          "dodavatel_ic": "25032372",
+          "dodavatel_dic": "CZ25032372",
+          "dodavatel_nazev": "Dřevovýroba VLK spol. s r.o.",
+          "polozky_count": 1,
+          "polozky": [
+            {
+              "radek": "18",
+              "oznaceni": "ks",
+              "popis": "1 W35-00",
+              "mnozstvi": "1313318",
+              "jednotka": "ks"
+            }
+          ]
+        }
+      }
+    },
+    "CHU_SCX_TV25091114350_0012.pdf": {
+      "extraction_success": true,
+      "repeatability": true,
+      "differences": [],
+      "extracted_data": {
+        "page_1": {
+          "cislo_dokladu": "000370",
+          "objednavka": "4500224710",
+          "datum_porizeni": "09.09.2025",
+          "dodavatel_ic": "25032372",
+          "dodavatel_dic": "CZ25032372",
+          "dodavatel_nazev": "DODACÍ LIST\n\nDřevovýroba VLK spol. s r.o.",
+          "polozky_count": 2,
+          "polozky": [
+            {
+              "radek": "1",
+              "oznaceni": "W30-00",
+              "popis": "1260021 BEDNA DŘEVĚNÁ HT W30-00-ARG-208-80-140",
+              "mnozstvi": "12",
+              "jednotka": "ks"
+            },
+            {
+              "radek": "2",
+              "oznaceni": "W35-00",
+              "popis": "1313318 BEDNA DŘEVĚNÁ HT W35-00-ARG-168-80-125",
+              "mnozstvi": "12",
+              "jednotka": "ks"
+            }
+          ]
+        }
+      }
+    },
+    "CHU_SCX_TV25091114350_0013.pdf": {
+      "extraction_success": true,
+      "repeatability": true,
+      "differences": [],
+      "extracted_data": {
+        "page_1": {
+          "cislo_dokladu": "000615",
+          "objednavka": "4500225064",
+          "datum_porizeni": "08.09.2025",
+          "dodavatel_ic": "25410105",
+          "dodavatel_dic": "CZ25410105",
+          "dodavatel_nazev": "a.s.",
+          "polozky_count": 0,
+          "polozky": []
+        }
+      }
+    },
+    "CHU_SCX_TV25091114350_0014.pdf": {
+      "extraction_success": true,
+      "repeatability": true,
+      "differences": [],
+      "extracted_data": {
+        "page_1": {
+          "cislo_dokladu": "9273",
+          "objednavka": "4500224710",
+          "datum_porizeni": "08.09.2025",
+          "dodavatel_ic": "25032372",
+          "dodavatel_dic": "CZ25032372",
+          "dodavatel_nazev": "m Dřevovýroba VLK spol. s r.o.",
+          "polozky_count": 4,
+          "polozky": [
+            {
+              "radek": "4",
+              "oznaceni": "Awe",
+              "popis": "(s osa Sklad",
+              "mnozstvi": "500",
+              "jednotka": "ks"
+            },
+            {
+              "radek": "1",
+              "oznaceni": "OPR09",
+              "popis": "Oprava beden Velká HT",
+              "mnozstvi": "8",
+              "jednotka": "ks"
+            },
+            {
+              "radek": "16",
+              "oznaceni": "ks",
+              "popis": "2 OPR10 Oprava beden Malá HT",
+              "mnozstvi": "1300340",
+              "jednotka": "ks"
+            },
+            {
+              "radek": "4",
+              "oznaceni": "metry",
+              "popis": "-== nejvýš",
+              "mnozstvi": "2",
+              "jednotka": "ks"
+            }
+          ]
+        }
+      }
+    },
+    "CHU_SCX_TV25091114350_0015.pdf": {
+      "extraction_success": true,
+      "repeatability": true,
+      "differences": [],
+      "extracted_data": {
+        "page_1": {
+          "cislo_dokladu": "9272",
+          "objednavka": "4500224710",
+          "datum_porizeni": "08.09.2025",
+          "dodavatel_ic": "25032372",
+          "dodavatel_dic": "CZ25032372",
+          "dodavatel_nazev": "Dřevovýroba VLK spol. s r.o.",
+          "polozky_count": 2,
+          "polozky": [
+            {
+              "radek": "1",
+              "oznaceni": "OPR09",
+              "popis": "Oprava beden Velká HT",
+              "mnozstvi": "8",
+              "jednotka": "ks"
+            },
+            {
+              "radek": "16",
+              "oznaceni": "ks",
+              "popis": "2 OPR10 Oprava beden Malá HT",
+              "mnozstvi": "1300337",
+              "jednotka": "ks"
+            }
+          ]
+        }
+      }
+    },
+    "CHU_SCX_TV25091114350_0016.pdf": {
+      "extraction_success": true,
+      "repeatability": true,
+      "differences": [],
+      "extracted_data": {
+        "page_1": {
+          "cislo_dokladu": "9271",
+          "objednavka": null,
+          "datum_porizeni": null,
+          "dodavatel_ic": "25032372",
+          "dodavatel_dic": "CZ25032372",
+          "dodavatel_nazev": "Dřevovýroba VLK spol. s r.o.",
+          "polozky_count": 2,
+          "polozky": [
+            {
+              "radek": "1",
+              "oznaceni": "OPRO9",
+              "popis": "Oprava beden Velka HT",
+              "mnozstvi": "10",
+              "jednotka": "ks"
+            },
+            {
+              "radek": "2",
+              "oznaceni": "OPR10",
+              "popis": "Oprava beden Mala HT",
+              "mnozstvi": "14",
+              "jednotka": "ks"
+            }
+          ]
+        }
+      }
+    },
+    "CHU_SCX_TV25091114350_0017.pdf": {
+      "extraction_success": true,
+      "repeatability": true,
+      "differences": [],
+      "extracted_data": {
+        "page_1": {
+          "cislo_dokladu": "000369",
+          "objednavka": "1",
+          "datum_porizeni": "08.09.2025",
+          "dodavatel_ic": "25032372",
+          "dodavatel_dic": "CZ25032372",
+          "dodavatel_nazev": "DODACÍ LIST\n\nVĚ\n\nry Hevovýtoba\n\nDřevovýroba VLK spol. s r.o.",
+          "polozky_count": 0,
+          "polozky": []
+        }
+      }
+    },
+    "CHU_SCX_TV25091114350_0018.pdf": {
+      "extraction_success": true,
+      "repeatability": true,
+      "differences": [],
+      "extracted_data": {
+        "page_1": {
+          "cislo_dokladu": "000368",
+          "objednavka": null,
+          "datum_porizeni": null,
+          "dodavatel_ic": "25032372",
+          "dodavatel_dic": "CZ25032372",
+          "dodavatel_nazev": "P Dřevovýroba VLK spol. s r.o.",
+          "polozky_count": 0,
+          "polozky": []
+        }
+      }
+    },
+    "CHU_SCX_TV25091114350_0019.pdf": {
+      "extraction_success": true,
+      "repeatability": true,
+      "differences": [],
+      "extracted_data": {
+        "page_1": {
+          "cislo_dokladu": "000367",
+          "objednavka": "4500224710",
+          "datum_porizeni": "05.09.2025",
+          "dodavatel_ic": "25032372",
+          "dodavatel_dic": "CZ25032372",
+          "dodavatel_nazev": "Dřevovýroba VLK spol. s r.o.",
+          "polozky_count": 2,
+          "polozky": [
+            {
+              "radek": "26",
+              "oznaceni": "ks",
+              "popis": "1. W35-00",
+              "mnozstvi": "1313318",
+              "jednotka": "ks"
+            },
+            {
+              "radek": "3",
+              "oznaceni": "DUBI",
+              "popis": "Mírová",
+              "mnozstvi": "314",
+              "jednotka": "ks"
+            }
+          ]
+        }
+      }
+    },
+    "CHU_SCX_TV25091114350_0020.pdf": {
+      "extraction_success": true,
+      "repeatability": true,
+      "differences": [],
+      "extracted_data": {
+        "page_1": {
+          "cislo_dokladu": "000366",
+          "objednavka": "4500224710",
+          "datum_porizeni": "05.09.2025",
+          "dodavatel_ic": "25032372",
+          "dodavatel_dic": "CZ25032372",
+          "dodavatel_nazev": "Dřevovýroba VLK spol. s r.o.",
+          "polozky_count": 0,
+          "polozky": []
+        }
+      }
+    },
+    "CHU_SCX_TV25091114350_0021.pdf": {
+      "extraction_success": true,
+      "repeatability": true,
+      "differences": [],
+      "extracted_data": {
+        "page_1": {
+          "cislo_dokladu": "000365",
+          "objednavka": null,
+          "datum_porizeni": "05.09.2025",
+          "dodavatel_ic": "25032372",
+          "dodavatel_dic": "CZ25032372",
+          "dodavatel_nazev": "Dřevovýroba VLK spol. s r.o.",
+          "polozky_count": 1,
+          "polozky": [
+            {
+              "radek": "12",
+              "oznaceni": "ks",
+              "popis": "1 W28-04",
+              "mnozstvi": "1259869",
+              "jednotka": "ks"
+            }
+          ]
+        }
+      }
+    },
+    "CHU_SCX_TV25091114350_0022.pdf": {
+      "extraction_success": true,
+      "repeatability": true,
+      "differences": [],
+      "extracted_data": {
+        "page_1": {
+          "cislo_dokladu": "000364",
+          "objednavka": "1",
+          "datum_porizeni": null,
+          "dodavatel_ic": "25032372",
+          "dodavatel_dic": "CZ25082372",
+          "dodavatel_nazev": "Dřevovýroba VLK spol. s r.o.",
+          "polozky_count": 0,
+          "polozky": []
+        }
+      }
+    },
+    "CHU_SCX_TV25091114350_0023.pdf": {
+      "extraction_success": true,
+      "repeatability": true,
+      "differences": [],
+      "extracted_data": {
+        "page_1": {
+          "cislo_dokladu": "9270",
+          "objednavka": null,
+          "datum_porizeni": null,
+          "dodavatel_ic": "25032372",
+          "dodavatel_dic": "CZ25032372",
+          "dodavatel_nazev": "ee Dřevovýroba VLK spol. s r.o.",
+          "polozky_count": 3,
+          "polozky": [
+            {
+              "radek": "4",
+              "oznaceni": "KK",
+              "popis": "41703. Dubí Objednávka ©:",
+              "mnozstvi": "4500224710",
+              "jednotka": "ks"
+            },
+            {
+              "radek": "1",
+              "oznaceni": "OPR09",
+              "popis": "Oprava beden Velká HT",
+              "mnozstvi": "3",
+              "jednotka": "ks"
+            },
+            {
+              "radek": "2",
+              "oznaceni": "OPR10",
+              "popis": "Oprava beden Malá HT",
+              "mnozstvi": "9",
+              "jednotka": "ks"
+            }
+          ]
+        }
+      }
+    },
+    "CHU_SCX_TV25091114350_0024.pdf": {
+      "extraction_success": true,
+      "repeatability": true,
+      "differences": [],
+      "extracted_data": {
+        "page_1": {
+          "cislo_dokladu": "9269",
+          "objednavka": null,
+          "datum_porizeni": "05.09.2025",
+          "dodavatel_ic": "25032372",
+          "dodavatel_dic": "CZ25032372",
+          "dodavatel_nazev": "SŠ Dřevovýroba VLK spol. s r.o.",
+          "polozky_count": 2,
+          "polozky": [
+            {
+              "radek": "1",
+              "oznaceni": "OPRO09",
+              "popis": "Oprava beden Velká HT",
+              "mnozstvi": "8",
+              "jednotka": "ks"
+            },
+            {
+              "radek": "2",
+              "oznaceni": "OPR10",
+              "popis": "Oprava beden Malá HT",
+              "mnozstvi": "16",
+              "jednotka": "ks"
+            }
+          ]
+        }
+      }
+    },
+    "CHU_SCX_TV25091114350_0025.pdf": {
+      "extraction_success": true,
+      "repeatability": true,
+      "differences": [],
+      "extracted_data": {
+        "page_1": {
+          "cislo_dokladu": "000363",
+          "objednavka": null,
+          "datum_porizeni": null,
+          "dodavatel_ic": "25032372",
+          "dodavatel_dic": "CZ25032372",
+          "dodavatel_nazev": "Dřevovýroba VLK spol. s r.o.",
+          "polozky_count": 1,
+          "polozky": [
+            {
+              "radek": "1",
+              "oznaceni": "W30-00",
+              "popis": "1260021 BEDNA DŘEVĚNÁ HT W30-00-ARG-208-80-140",
+              "mnozstvi": "20",
+              "jednotka": "ks"
+            }
+          ]
+        }
+      }
+    },
+    "CHU_SCX_TV25091114350_0026.pdf": {
+      "extraction_success": true,
+      "repeatability": true,
+      "differences": [],
+      "extracted_data": {
+        "page_1": {
+          "cislo_dokladu": "9268",
+          "objednavka": "4500224710",
+          "datum_porizeni": "04.09.2025",
+          "dodavatel_ic": "25032372",
+          "dodavatel_dic": "CZ25032372",
+          "dodavatel_nazev": "Dřevovýroba VLK spol. s r.o.",
+          "polozky_count": 2,
+          "polozky": [
+            {
+              "radek": "1",
+              "oznaceni": "OPRO09",
+              "popis": "Oprava beden Velká HT",
+              "mnozstvi": "12",
+              "jednotka": "ks"
+            },
+            {
+              "radek": "14",
+              "oznaceni": "ks",
+              "popis": "2 OPR10 Oprava beden Malá HT",
+              "mnozstvi": "1313318",
+              "jednotka": "ks"
+            }
+          ]
+        }
+      }
+    },
+    "CHU_SCX_TV25091114350_0027.pdf": {
+      "extraction_success": true,
+      "repeatability": true,
+      "differences": [],
+      "extracted_data": {
+        "page_1": {
+          "cislo_dokladu": "9267",
+          "objednavka": null,
+          "datum_porizeni": "04.09.2025",
+          "dodavatel_ic": "25032372",
+          "dodavatel_dic": "CZ25032372",
+          "dodavatel_nazev": "ante Dřevovýroba VLK spol. s r.o.",
+          "polozky_count": 2,
+          "polozky": [
+            {
+              "radek": "1",
+              "oznaceni": "OPROS",
+              "popis": "Oprava beden Velka HT",
+              "mnozstvi": "7",
+              "jednotka": "ks"
+            },
+            {
+              "radek": "17",
+              "oznaceni": "ks",
+              "popis": "2 OPR10 Oprava beden Mala HT",
+              "mnozstvi": "1300337",
+              "jednotka": "ks"
+            }
+          ]
+        }
+      }
+    },
+    "CHU_SCX_TV25091114350_0028.pdf": {
+      "extraction_success": true,
+      "repeatability": true,
+      "differences": [],
+      "extracted_data": {
+        "page_1": {
+          "cislo_dokladu": "9266",
+          "objednavka": "4500224710",
+          "datum_porizeni": "04.09.2025",
+          "dodavatel_ic": "25032372",
+          "dodavatel_dic": "CZ25032372",
+          "dodavatel_nazev": "Dřevovýroba VLK spol. s r.o.",
+          "polozky_count": 1,
+          "polozky": [
+            {
+              "radek": "7",
+              "oznaceni": "Sp",
+              "popis": "1GO:250",
+              "mnozstvi": "32",
+              "jednotka": "ks"
+            }
+          ]
+        }
+      }
+    },
+    "CHU_SCX_TV25091114350_0029.pdf": {
+      "extraction_success": true,
+      "repeatability": true,
+      "differences": [],
+      "extracted_data": {
+        "page_1": {
+          "cislo_dokladu": "9265",
+          "objednavka": null,
+          "datum_porizeni": "04.09.2025",
+          "dodavatel_ic": null,
+          "dodavatel_dic": "CZ25032372",
+          "dodavatel_nazev": "Dřevovýroba VLK spol. s r.o.",
+          "polozky_count": 2,
+          "polozky": [
+            {
+              "radek": "1",
+              "oznaceni": "OPRO09",
+              "popis": "Oprava beden Velká HT",
+              "mnozstvi": "9",
+              "jednotka": "ks"
+            },
+            {
+              "radek": "2",
+              "oznaceni": "OPR10",
+              "popis": "Oprava beden Malá HT",
+              "mnozstvi": "15",
+              "jednotka": "ks"
+            }
+          ]
+        }
+      }
+    },
+    "CHU_SCX_TV25091114350_0030.pdf": {
+      "extraction_success": true,
+      "repeatability": true,
+      "differences": [],
+      "extracted_data": {
+        "page_1": {
+          "cislo_dokladu": "000362",
+          "objednavka": null,
+          "datum_porizeni": "03.09.2025",
+          "dodavatel_ic": null,
+          "dodavatel_dic": "CZ25032372",
+          "dodavatel_nazev": "Dřevovýroba VLK spol. s r.o.",
+          "polozky_count": 0,
+          "polozky": []
+        }
+      }
+    },
+    "CHU_SCX_TV25091114350_0031.pdf": {
+      "extraction_success": true,
+      "repeatability": true,
+      "differences": [],
+      "extracted_data": {
+        "page_1": {
+          "cislo_dokladu": "000361",
+          "objednavka": "4500224710",
+          "datum_porizeni": "03.09.2025",
+          "dodavatel_ic": "25032372",
+          "dodavatel_dic": "CZ25032372",
+          "dodavatel_nazev": "Dřevovýroba VLK spol. s r.o.",
+          "polozky_count": 0,
+          "polozky": []
+        }
+      }
+    }
+  }
+}
